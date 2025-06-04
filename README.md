@@ -30,7 +30,7 @@ Delicious-Bites/
 How to Use
 
 1. Clone this repository  
-   git clone https://github.com/alok-singh777/Delicious-Bites.git  
+   git clone https://github.com/alok-singh777/Restaurant-Menu.git
 
 2. Open index.html in your browser  
    Or use Live Server in VS Code for a better development experience.  
